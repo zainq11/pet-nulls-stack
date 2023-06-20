@@ -11,6 +11,7 @@ component "pet" {
   inputs = {
     prefix = var.prefix
   }
+  animal = cool.horse
 }
 
 component "nulls" {
