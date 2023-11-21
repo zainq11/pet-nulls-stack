@@ -4,7 +4,7 @@ _This is an example stack configuration for the private preview of Terraform Sta
 constructs and features are subject to change given feedback received during this preview. Do not
 use Stacks for production workloads at this time._
 
-<image>
+![pet-nulls-stack](https://github.com/hashicorp/pet-nulls-stack/assets/2430490/5c0d2c31-683f-4dec-a3f4-2c9ff18aeef3)
 
 This is a stack using two components, two environments, and the `random_pet` and `null_resource`
 resources. The purpose is a no-authentication, state-only test of the stacks concepts. No identity
