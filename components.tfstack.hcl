@@ -6,10 +6,6 @@ variable "instances" {
   type = number
 }
 
-variable "aws_jwt_filepath" {
-  type = string
-}
-
 component "pet" {
   source = "./pet"
   inputs = {
