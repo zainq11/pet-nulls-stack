@@ -8,10 +8,10 @@ use Stacks for production workloads at this time._
 
 This is a stack using two components, two environments, and the `random_pet` and `null_resource`
 resources. The purpose is a no-authentication, state-only test of the stacks concepts. No identity
-tokens are defined for OIDC authentication, no real infrastructure is provisioned.
+tokens are defined for OIDC authentication, no real infrastructure is provisioned, no cost will be
+incurred.
 
-_We do not recommend using this example within production accounts. This example will incur [small]
-costs if provisioned. Please remember to destroy the infrastructure after using this example._
+_We do not recommend using this example within production accounts._
 
 ## Usage
 
